@@ -21,7 +21,7 @@
 
 ### <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Rocket.png" alt="Rocket" width="25" height="25" /> Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,docker,dotnet,git,github,vscode,visulastudio,selenium,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,docker,dotnet,git,github,vscode,visualstudio,selenium,react,nodejs)](https://skillicons.dev)
 
 ### <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> About Me
 
