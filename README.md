@@ -30,14 +30,10 @@ I am very good at `CTRL+C & CTRL+V` and `Google`ing. <img src="https://raw.githu
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Pinched%20Fingers.png" alt="Pinched Fingers" width="25" height="25" /> Check out my [portfolio web site]
+<!-- ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Pinched%20Fingers.png" alt="Pinched Fingers" width="25" height="25" /> Check out my [portfolio web site] -->
 
 <!-- (https://sabapolio.netlify.app/) -->
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="25" height="25" /> Reach me out --> [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/shivani-solanki)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Victory Hand" width="25" height="25" /> STAY SAFE
-
-## Joke of the day:
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Victory Hand" width="25" height="25" /> STAY SAFE STAY HEALTHY
