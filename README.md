@@ -14,6 +14,8 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" /> I have experience with Programming Languages such as:
 
+- React js
+- Node js
 - C#
 - VBScript
 - JavaScript
