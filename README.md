@@ -22,7 +22,9 @@
 - VBScript
 - JavaScript
 - HTML and CSS
+- python
 - Material UI
+- Express Js
 - Postgres SQL
 
 ### <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Rocket.png" alt="Rocket" width="25" height="25" /> Languages and Tools:
